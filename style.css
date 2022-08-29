@@ -1,0 +1,93 @@
+
+*{
+  padding: 10;
+  margin: auto;
+}
+.telegram-icon {
+  font-size: 70px;
+
+  color: white;
+}
+
+.ggg {
+  background-color: #279FDB;
+  display: flex;
+  width:200px;
+  height: 70px;
+  text-decoration: none;
+  justify-content: space-between;
+  border-radius: 20px;
+}
+
+.login-text {
+  color: black;
+  font-size: 25px;
+  font-family: "Source Sans Pro";
+  padding: 20px 10px 20px 10px;
+}
+.tiktok-icon{
+  font-size: 60px;
+
+  color: white;
+}
+
+.ggg2 {
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  width: 200px;
+  height: 70px;
+  text-decoration: none;
+  justify-content: space-between;
+  border-radius: 20px;
+}
+
+.login-text2 {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: "Source Sans Pro";
+  padding: 20px 10px 20px 10px;
+}
+.youtube-icon {
+  font-size: 70px;
+
+  color: white;
+}
+
+.ggg3 {
+  background-color: rgb(255, 0, 0);
+  display: flex;
+  width: 200px;
+  height: 70px;
+  text-decoration: none;
+  justify-content: space-between;
+  border-radius: 20px;
+}
+
+.login-text3 {
+  color: black;
+  font-size: 25px;
+  font-family: "Source Sans Pro";
+  padding: 20px 10px 20px 10px;
+}
+.insta-icon {
+  font-size: 70px;
+
+  color: white;
+}
+
+.ggg4 {
+  background-color: plum;
+  display: flex;
+  width: 200px;
+  height: 70px;
+  text-decoration: none;
+  justify-content: space-between;
+  border-radius: 20px;
+}
+
+.login-text4 {
+  color: black;
+  font-size: 25px;
+  font-family: "Source Sans Pro";
+  padding: 20px 10px 20px 10px;
+}
